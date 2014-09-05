@@ -5,8 +5,10 @@
 
 ### Screenshots
 ![Image1](https://raw.githubusercontent.com/shrutijalewar/hipsterbay/master/docs/screenshots/1.jpg)
+![Image1](https://raw.githubusercontent.com/shrutijalewar/hipsterbay/master/docs/screenshots/2.jpg)
+![Image1](https://raw.githubusercontent.com/shrutijalewar/hipsterbay/master/docs/screenshots/3.jpg)
+![Image1](https://raw.githubusercontent.com/shrutijalewar/hipsterbay/master/docs/screenshots/4.jpg)
 
-- Coming soon
 
 ### Description
 ### A modern bartering application built on NodeJS. Users can register accounts and search for auctions that are nearby or far away. Tired of that nasty rug from the 80s? Trade it in for a new used tire.Can't stand your roommates cat? Trade it for a ferret named Cthulhu. Is that old worn-out shoe losing it's new-factor? Plenty of new old-worn out shoes to trade! This is Hipsterbay.
