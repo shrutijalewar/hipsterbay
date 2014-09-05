@@ -4,6 +4,8 @@
 [![Coverage Status](https://coveralls.io/repos/kaylalynjones/hipsterbay/badge.png)](https://coveralls.io/r/kaylalynjones/hipsterbay)
 
 ### Screenshots
+![Image1](https://raw.githubusercontent.com/shrutijalewar/hipsterbay/master/docs/screenshots/1.jpg)
+
 - Coming soon
 
 ### Description
